@@ -1,0 +1,10 @@
+title       = "weread"
+baseURL     = "https://weread-cli.tamnd.com/"
+description = "Search books on WeRead (微信读书)"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/weread-cli"
